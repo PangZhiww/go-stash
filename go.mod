@@ -6,7 +6,7 @@ require (
 	github.com/globalsign/mgo v0.0.0-20181015135952-eeefdecb41b8
 	github.com/json-iterator/go v1.1.12
 	github.com/olivere/elastic/v7 v7.0.32
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.1
 	github.com/vjeantet/jodaTime v1.0.0
 	github.com/zeromicro/go-queue v1.1.6
 	github.com/zeromicro/go-zero v1.3.5
